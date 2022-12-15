@@ -4,7 +4,7 @@
 
 ### Projects 
 
-Profit Incentives and its Effect on Worker Preformance.
+Profit Incentives and its Effect on Worker Preformance- An experiment in observing the quality of work produced by two seperate groups of workers assigned to identical tasks with different pay rates.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
