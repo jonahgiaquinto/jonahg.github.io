@@ -4,7 +4,7 @@
 
 ### Projects 
 
-Profit Incentives and its Effect on Worker Preformance.(/sample_page)
+Profit Incentives and its Effect on Worker Preformance.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -14,7 +14,7 @@ Profit Incentives and its Effect on Worker Preformance.(/sample_page)
 
 ### Links To Projects
 
-- Profit Incentives and its Effect on Worker Preformance
+- <a href="[https://www.linkedin.com/in/jonahgiaquinto/](https://public.tableau.com/shared/2MGBS7R54?:display_count=n&:origin=viz_share_link)">Visualizations</a> 
 
 
 ---
