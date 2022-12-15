@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+Profit Incentives and its Effect on Worker Preformance(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
